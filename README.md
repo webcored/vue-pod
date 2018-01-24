@@ -64,39 +64,39 @@ It will create .vue-pod.json file in your project folder with the following cont
 
 ## Available options to customize 😎
 
-* singleFile
+* **singleFile**
 
   It expects a boolean. If 'false' creates multiple files with the available files array. If 'true' it will create **single file vue component** with all available contents to be rendered in a single component.
 
-* files
+* **files**
 
   It's an array, which holds all the files data to be generated while creating a component.
 
- * filename
+ * **filename**
 
    filename will be the name of the file while it is generated.**You can pass a ES6 string template. Accessible variable is componentName - ${componentName}**.
 
- * basePath
+ * **basePath**
 
    basepath holds the path value in which the file will be generated.
 
- * extension
+ * **extension**
 
    extension holds the extension value for a file.
 
- * content
+ * **content**
 
    You can **pre-fills some contents to the file**. You can pass a ES6 string template. Accessible variable is componentName -    ${componentName}.
 
- * tagname
+ * **tagname**
 
    It represents the tagname to be use to call this file while rendered in to the template file.
 
- * templateFile
+ * **templateFile**
  
     It expects a boolean. The Template File will hold all the necessary contents of the files which are all has **tagname**.
 
- * attributes
+ * **attributes**
 
     tagname can have attributes example: &lt;template type="jade"&gt;
 
