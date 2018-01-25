@@ -2,9 +2,12 @@
 Pod structure cli for Vue js
 
 <a href="https://vue-pod.slack.com/" target="_new" style="display: inline-block;"><img src="https://pbs.twimg.com/profile_images/885554951857946624/sd7GRyjY_400x400.jpg" 
-alt="slack Channel" width="50" height="50" border="50px" title="slack Channel" /></a>
-<a href="http://twitter.com/@js_pods" target="_new" style="display: inline-block;"><img src="http://i.imgur.com/7tVYAeF.png" 
-alt="slack Channel"  width="50" height="50" border="50px" title="Twitter" /></a>
+alt="slack Channel" width="30" height="30" border="50px" title="slack Channel" /></a>
+<a href="http://twitter.com/@js_pods" target="_new" style="display: inline-block;"><img src="https://i.imgur.com/kOz24fZ.png" 
+alt="slack Channel"  width="30" height="30" border="50px" title="Twitter" /></a><a href="https://github.com/js-pods/vue-pod" target="_new" style="display: inline-block;"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" 
+alt="slack Channel"  width="30" height="30" border="30px" title="Git hub" /></a>
+
+
 
 # Getting Started
 
