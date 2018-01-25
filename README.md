@@ -8,16 +8,17 @@ alt="slack Channel"  width="30" height="30" border="50px" title="Twitter" /></a>
 alt="slack Channel"  width="30" height="30" border="30px" title="Git hub" /></a>
 
 
-
 # Getting Started
 
 If you like to use vue components in **pod structure** please do install vue-pod (https://www.npmjs.com/package/vue-pod, https://github.com/js-pods/vue-pod/)
 
     npm install vue-pod -g
 
+<p align="center">
+	<img src="http://i.imgur.com/I0UEDyu.gif">
+</p>
 
 # Usage
-
 
     component|c <action> <component-path>
 
