@@ -1,0 +1,39 @@
+{
+  "name": "vue-pod",
+  "version": "0.0.18",
+  "description": "POD structure cli for Vuejs",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "vue-pod": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prakash <http://bit.ly/prakashchokalingam>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.13.0",
+    "es6-template": "^1.0.4",
+    "json-beautify": "^1.0.1",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-pods/vue-pod.git"
+  },
+  "keywords": [
+    "vue-pod",
+    "vue-cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/js-pods/vue-pod/issues"
+  },
+  "homepage": "https://github.com/js-pods/vue-pod#readme"
+}

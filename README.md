@@ -1,10 +1,10 @@
 # vue-pod 🤟
 Pod structure cli for Vue js
 
-<a href="https://vue-pod.slack.com/" target="_new" style="display: inline-block;"><img src="https://pbs.twimg.com/profile_images/885554951857946624/sd7GRyjY_400x400.jpg" 
-alt="slack Channel" width="30" height="30" border="50px" title="slack Channel" /></a> 
-<a href="http://twitter.com/@js_pods" target="_new" style="display: inline-block;"><img src="https://i.imgur.com/kOz24fZ.png" 
-alt="slack Channel"  width="30" height="30" border="50px" title="Twitter" /></a> <a href="https://github.com/js-pods/vue-pod" target="_new" style="display: inline-block;"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" 
+<a href="https://vue-pod.slack.com/" target="_new" style="display: inline-block;"><img src="https://pbs.twimg.com/profile_images/885554951857946624/sd7GRyjY_400x400.jpg"
+alt="slack Channel" width="30" height="30" border="50px" title="slack Channel" /></a>
+<a href="http://twitter.com/@js_pods" target="_new" style="display: inline-block;"><img src="https://i.imgur.com/kOz24fZ.png"
+alt="slack Channel"  width="30" height="30" border="50px" title="Twitter" /></a> <a href="https://github.com/js-pods/vue-pod" target="_new" style="display: inline-block;"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"
 alt="slack Channel"  width="30" height="30" border="30px" title="Git hub" /></a>
 
 
@@ -102,7 +102,7 @@ It will create .vue-pod.json file in your project folder with the following cont
    It represents the tagname to be use to call this file while rendered in to the template file.
 
  * **templateFile**
- 
+
     It expects a boolean. The Template File will hold all the necessary contents of the files which are all has **tagname**.
 
  * **attributes**
@@ -113,5 +113,3 @@ It will create .vue-pod.json file in your project folder with the following cont
  *As of now vue-pod cli is created to manage only components. Managing router.js,router components,vuex store, plugins and directives are in the pipeline. **Contributions** are welcome (https://github.com/js-pods/vue-pod) for the better vue experience.
 
  Thanks for using **vue-pod** 🙏.
-
- 
