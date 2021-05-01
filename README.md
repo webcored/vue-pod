@@ -1,3 +1,8 @@
+# ⚠️ Deprecated in favour of [vue-cli-plugin-pod](https://www.npmjs.com/package/vue-cli-plugin-pod)
+
+### Checkout: https://github.com/prakashchokalingam/vue-cli-plugin-pod
+
+***
 # vue-pod 🤟
 Pod structure cli for Vue js
 
