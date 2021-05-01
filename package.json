@@ -1,6 +1,6 @@
 {
   "name": "vue-pod",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "POD structure cli for Vuejs",
   "main": "index.js",
   "preferGlobal": true,
